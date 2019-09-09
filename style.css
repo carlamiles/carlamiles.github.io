@@ -14,13 +14,13 @@
     color: rgba(54, 52, 52, 0.329);
 }
 
-img {
+/* img {
     width: auto;
     height: auto;
     border: 5px solid rgb(75, 129, 129);
     padding: 5px;
     background-color: rgb(75, 129, 129);
-}
+} */
 
 .footer {
     background-color: rgb(67, 74, 82);
@@ -37,8 +37,8 @@ img {
     color: rgb(48, 47, 47);
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
     .headshot {
         width: 100%;
     }
-}
+} */
